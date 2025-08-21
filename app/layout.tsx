@@ -12,3 +12,5 @@ export default function RootLayout({
     </html>
   );
 }
+//NEXT_PUBLIC_
+//Prefix appended to environment variables that are available on the client side. eg. `NEXT_PUBLIC_` or `VITE_PUBLIC_`. Defaults to `NEXT_PUBLIC_`.
